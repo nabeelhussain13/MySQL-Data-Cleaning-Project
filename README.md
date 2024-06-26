@@ -22,7 +22,7 @@ To clean the dataset, the following four operations were performed:
 1. Removal of Duplicate Values:
 Duplicate records were identified and removed to ensure each entry in the dataset is unique.
 
-2.Standardizing the Data:
+2. Standardizing the Data:
 Data was standardized to maintain consistency. For instance, dates were formatted uniformly, and text fields such as company names and locations were standardized to a consistent format.
 
 3. Treatment of Null and Blank Values:
